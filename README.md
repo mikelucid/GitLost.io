@@ -82,12 +82,11 @@ A speculative, interactive web experience that simulates discovering Bitcoin rew
 
 ## 📁 Project Structure
 
-```
 
 gitlost.io/
 └── index.html      # single file – all styles, logic, and markup
 
-```
+
 
 ## 🔧 Customization Ideas
 
