@@ -1,4 +1,4 @@
-# gitlost.io — The Lost Commit Repository
+# gitlost.co.uk - The Lost Commit Repository
 
 > *Where lost commits find value. Literally.*
 
@@ -6,11 +6,11 @@ A speculative, interactive web experience that simulates discovering Bitcoin rew
 
 ## ✨ Live Demo
 
-[gitlost.io](https://your-demo-link-here.netlify.app) — *if hosted*
+[gitlost.co.uk](https://gitlost.co.uk) — *if hosted*
 
 ## 🧠 Concept
 
-`gitlost.io` imagines a hidden archive of every commit that never made it to `main`: half‑written features, angry merge resolutions, desperate `"fix stuff"` messages. The site randomly rewards visitors with satoshis (simulated) based on a **Proof of Lost Work** — the more you seek, the more the void might give.
+`gitlost.co.uk' imagines a hidden archive of every commit that never made it to `main`: half‑written features, angry merge resolutions, desperate `"fix stuff"` messages. The site randomly rewards visitors with satoshis (simulated) based on a **Proof of Lost Work** — the more you seek, the more the void might give.
 
 ## 🎮 Features
 
@@ -42,7 +42,7 @@ Here's a quick README you can drop right into your project folder or GitHub repo
 ---
 
 ```markdown
-# gitlost.io — The Lost Commit Repository
+# gitlost.co.uk — The Lost Commit Repository
 
 > *Where lost commits find value. Literally.*
 
@@ -50,7 +50,7 @@ A speculative, interactive web experience that simulates discovering Bitcoin rew
 
 ## ✨ Live Demo
 
-[gitlost.io](https://your-demo-link-here.netlify.app) — *if hosted*
+[gitlost.co.uk](https://gitlost.co.uk) — *if hosted*
 
 ## 🧠 Concept
 
