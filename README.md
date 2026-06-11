@@ -115,3 +115,8 @@ Your Name — [portfolio link] — [GitHub]
 ---
 
 Just paste that into a README.md file, replace the demo link and author details, and you're ready to push to GitHub. Want me to adjust the tone (more serious, shorter, or even more cryptic)?
+
+##Donate
+3DFLX5gqn5S9kCBWDBcgU1Xj2Cgf2ttHhq
+
+thanks!
